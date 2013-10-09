@@ -1,7 +1,5 @@
 package com.games.gamestart;
 
-import com.games.gamestart.R;
-
 
 import android.os.Bundle;
 import android.app.Activity;
