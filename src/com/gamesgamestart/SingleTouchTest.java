@@ -1,4 +1,4 @@
-package com.games.gamestart;
+package com.gamesgamestart;
 
 import android.os.Bundle;
 import android.app.Activity;
